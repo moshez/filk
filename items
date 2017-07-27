@@ -9,11 +9,12 @@ for item in root.iter('item'):
     content = item.find('{http://purl.org/rss/1.0/modules/content/}encoded').text
     name = link.split(u'/')[-2][:30]
     names.append(name)
-    with open(name+'.rst', 'w') as fp:
+    with open('doc/' + name+'.rst', 'w') as fp:
          fp.write(title.encode('utf-8') + '\n' + '-' * len(title) + '\n\n')
-         fp.write(content.encode('utf-8'))
+         for line in content.encode('utf-8').splitlines():
+             fp.write('| ' + line + '\n')
 
-with open('index.rst', 'w') as fp:
+with open('doc/index.rst', 'w') as fp:
     fp.write("Moshe'z Filk Songs\n")
     fp.write("------------------\n\n")
     fp.write(".. toctree::\n")

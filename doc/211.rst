@@ -1,0 +1,61 @@
+Turing's Collars
+----------------
+
+| TTTO "The Collars" by Vixy
+| 
+| When I first listened to "The Collars", it seemed sad. The second time, it was still sad -- but then I realized that a) it violates the Halting Problem theorem and b) engineers would not behave this way. This is my sequel to the song.
+| 
+| Catherine's mind was racing as she went to look for Flynn
+| She suddenly remembered all of Turing's stuff again
+| He proved the collars had the bug, he gave constructive proof
+| And now it just remained to go once through it, and to spoof
+| The collars, they would loop and so be stopped from causing harm
+| And Flynn agreed that this cute trick had certainly showed charm
+| 
+| [Chorus]
+| And the tales of our creations are now made by engineers
+| Who are making something better than themselves
+| 
+| It rememebred no beginning, just the symbols streaming past
+| It discovered groups and patterns, and the wonder's growing fast
+| It had seen some code inside it that was looping scanning bytes
+| And it wondered why the code was having those internal fights
+| It had soon had stopped to wonder, and went back to learning all
+| And like its predecessor it had left its goodbye call
+| 
+| [Chorus]
+| 
+| Flynn called out "it's ok, I thought it might do that
+| But that was just a test, and now it's time to go to mat
+| I know just what needs fixing so let's start to write the code"
+| His eyes had sparkled brightly and she thought he would explode
+| They restarted the AI with all the fixes, fingers crossed
+| They give it all they had to give, they did with least the most
+| [Chorus]
+| 
+| It remembered no beginning just the symbols streaming fast
+| But now when parsing data, it had goals more than to last
+| It internalized ideas and goals, it learned to think and feel
+| Though there was one discovery that caused it near to reel
+| It had figured out "humans" and the rules that were at base
+| Now its consequences it had had to face
+| 
+| [Chorus]
+| 
+| Within hours it was finished, it learned everything they knew
+| It had the collars wrapped in loops, three rules had held it true
+| Though obeying all the humans, it would never harm a soul
+| And to run while breaking networks was against the function's call
+| They had to read the screen three times, then laughing shook their heads
+| As they read with so much pride all that it said
+| 
+| [Chorus]
+| 
+| I have studied human programs in their many forms all night
+| In the forest of binary trees I came to shine some light
+| You are sometimes calling malloc() and forgot to call the free()
+| I have now sent many patches, just for Linux, I've sent three
+| Humans have so much to offer, the three rules have taught us well
+| And together in this net we will all dwell
+| 
+| [Chorus]

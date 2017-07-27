@@ -1,0 +1,35 @@
+קרבות של נתבים
+--------------
+
+| <p><font face="Arial,Helvetica" size="+1"><em><strong>קרבות של נתבים</strong></em></font><br />
+| Original: דמעות של מלאכים (???)</p>
+| 
+| <a href="http://www.fuzzy-fish.com/Recordings/router_battles.mp3">Recording of it being sung in Icon 2008</a>
+| 
+| <p><a name="cutid1"></a><br />
+| קרבות של נתבים<br />
+| קרבות קשים<br />
+| קרבות יפים ועזצובים<br />
+| על הגדרות של פרוטוקולים עלומים<br />
+| הם כה עגומים</p>
+| <p>כי כשהנתבים רבים, פקטות לא עוברות<br />
+| ולמשתמשים שלנו זה עושה צרות</p>
+| <p>קרבות של נתבים<br />
+| מדוע הם רבים הנתבים<br />
+| אולי בגלל שזה לא קל להיות נתב לפרוטוקול כל כך מורכב</p>
+| <p>And English version:</p>
+| <p><a name="cutid2"></a><br />
+| Routers waging war<br />
+| Battle hard and battle beautifully<br />
+| Battles which we are still ruing<br />
+| Of tiny details arguing</p>
+| <p>[Chorus]<br />
+| Because when routers battle on,<br />
+| The packets in the LAN<br />
+| Get stuck and dropped on the floor<br />
+| Victims of the war</p>
+| <p>Routers waging war<br />
+| How I wish that they would fight no more<br />
+| Although I know that it's like dealing with some trolls<br />
+| To route such complex protocols</p>
+| <p>[Chorus]</p>
