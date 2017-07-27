@@ -1,0 +1,22 @@
+from xml.etree import ElementTree as ET
+
+root = ET.parse('moshezfilksongs.wordpress.2017-07-27.xml').getroot()
+
+names = []
+for item in root.iter('item'):
+    title = item.find('title').text
+    link = item.find('link').text
+    content = item.find('{http://purl.org/rss/1.0/modules/content/}encoded').text
+    name = link.split(u'/')[-2][:30]
+    names.append(name)
+    with open(name+'.rst', 'w') as fp:
+         fp.write(title.encode('utf-8') + '\n' + '-' * len(title) + '\n\n')
+         fp.write(content.encode('utf-8'))
+
+with open('index.rst', 'w') as fp:
+    fp.write("Moshe'z Filk Songs\n")
+    fp.write("------------------\n\n")
+    fp.write(".. toctree::\n")
+    fp.write("    maxdepth: 2\n\n")
+    for name in names:
+        fp.write("    " + name + "\n")
