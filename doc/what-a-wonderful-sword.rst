@@ -27,7 +27,7 @@ What a Wonderful Sword
 | Theyre really sayin...*spoken*(I ....love....you).
 | 
 | I hear babies cry...... I watch them grow
-| *spoken*(you know their gonna learn
+| *spoken* (you know they're gonna learn
 | A whole lot more than Ill never know)
 | And I think to myself what a wonderful sword.
 | And I think to myself what a wonderful sword.

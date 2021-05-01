@@ -2,7 +2,6 @@ Moshe'z Filk Songs
 ------------------
 
 .. toctree::
-    maxdepth: 2
 
     lifetime-of-filk
     filkmoshez.wordpress.com
@@ -232,3 +231,4 @@ Moshe'z Filk Songs
     sweetheart
     nokia
     page-me-maybe
+    sea-sickness-shanty
